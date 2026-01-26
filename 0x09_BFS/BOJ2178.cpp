@@ -36,4 +36,5 @@ int main(){
         }
     }
     cout << dis[n - 1][m - 1] << "\n";
+
 }
